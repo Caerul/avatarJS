@@ -6,8 +6,8 @@ Drop image, crop, push
 Requires
 ========
 
-jQuery
-Jcrop
+- jQuery
+- Jcrop
 
 Usage
 ========
